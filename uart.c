@@ -1,4 +1,5 @@
 
+
 /* uart.c -- test for uart, by using VAPI
    Copyright (C) 2001, Marko Mlinar, markom@opencores.org
 
